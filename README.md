@@ -1,5 +1,5 @@
 🎥[Demo Video](https://drive.google.com/file/d/1f7DOoUNWSXQAsTQljSB36yrX1eFnTjRz/view?usp=sharing)
-📊[ Presentation Slide](https://drive.google.com/file/d/1PNHG1QA5Rw5_Y851o3XHsg3acK3TG_Ur/view?usp=sharing)
+📊[ Presentation Slide](https://docs.google.com/presentation/d/1hKsSgHReS3galrQ4ICIlZLZm96gi2r0b-KV3_Z5Oeeg/edit?usp=sharing)
 🗂️[Dataset](https://drive.google.com/file/d/1SiYhPOTfo5EFAzaUT1Jdf5G9j93UX0rX/view?usp=sharing)
 
 # 🥦 Flower Image Classification
